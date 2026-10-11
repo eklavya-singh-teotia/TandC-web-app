@@ -1,0 +1,12 @@
+{
+  "name": "tandc-summarizer",
+  "version": "1.0.0",
+  "description": "Terms and Conditions Summarizer with React, Node.js Express, and Gemini API",
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev"
+  },
+  "keywords": ["terms-and-conditions", "summarizer", "gemini-api", "react", "express"],
+  "author": "",
+  "license": "ISC"
+}
